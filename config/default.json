@@ -28,5 +28,5 @@
       "passwordField": "password"
     }
   },
-  "mongodb": "mongodb://localhost:27017/backend"
+  "mongodb": "mongodb+srv://admin:Agile@2021@cluster0.lcdbl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 }
